@@ -1,0 +1,60 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "punjabi kitchen",
+      "address": "Near Dangra toli",
+      "rating": "4.3",
+      "email": "punjabikitchen@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "punjabi Dhaba",
+      "address": "Near lalpur ",
+      "rating": "4.1",
+      "email": "punjabidhaba@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Shere punjab",
+      "address": "Near Sorendra Nath school",
+      "rating": "3.3",
+      "email": "sherepunjab@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Surendra General Store",
+      "address": "Barjrang Club Buchai",
+      "rating": "5",
+      "email": "surendrageneralstore@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Surendra General Store",
+      "address": "Barjrang Club Buchai",
+      "rating": "5",
+      "email": "surendrageneralstore@gmail.com"
+    },
+    {
+      "name": "vekucve@ipofit.bo",
+      "email": "Oa",
+      "address": "Vi aC",
+      "rating": "Plea geti",
+      "id": 6
+    },
+    {
+      "name": "Gautam Dhaba",
+      "email": "dhabagaoutam@gmail.com",
+      "address": "Hazaribagh",
+      "rating": "5",
+      "id": 9
+    },
+    {
+      "name": "ukgu@cenir.lb",
+      "email": "Hh",
+      "address": "Hvnmnooa",
+      "rating": "Mh",
+      "id": 10
+    }
+  ]
+}
